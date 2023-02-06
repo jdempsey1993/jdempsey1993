@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdempsey1993
+- 👋 Hi, I’m Jack Dempsey
 - 👀 I’m interested in Front End Development and UX Design
 - 🌱 I’m currently strengthening my design skills.
 - 💞️ Visit webworks.design for a web design project.
